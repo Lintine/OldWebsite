@@ -1,5 +1,6 @@
 # Lintile
 ## Announcing the partnership between [Zeon](https://zeon.dev/) and Lintine.
+# [Go to index](https://lintine.github.io/INDEX)
 # Welcome!
 ## Projects
 ### [Linide](https://github.com/Lintine/Linide)
