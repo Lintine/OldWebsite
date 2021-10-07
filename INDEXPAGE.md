@@ -5,5 +5,5 @@
   - Box
 - Projects
   - [Arctine](https://lintine.github.io/arctine-docs)
-  - [EnviOS](https://lintine.github.io/EnviOS)
+  - [XianZaiOS (formerly known as enviOS)](https://lintine.github.io/XianZaiOS)
   - [Linide](https://https://github.com/Lintine/Linide)
