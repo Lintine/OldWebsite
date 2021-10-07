@@ -7,5 +7,5 @@
 A Python3 IDE Based on Zeditor from [Zeon](https://zeon.dev/).
 ### [Arctine](https://lintine.github.io/arctine-docs/)
 An Arch Linux Distro.
-### [EnviOS](https://lintine.github.io/EnviOS/)
+### [XianZaiOS](https://lintine.github.io/XianZaiOS/)
 A distro based on ubuntu.
