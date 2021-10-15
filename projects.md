@@ -11,3 +11,7 @@
 > **[XianZaiOS](https://lintine.github.io/XianZaiOS/)**
 >
 > A distro based on ubuntu.
+
+> **[Minisurfer](https://minisurfer.weebly.com)**
+>
+> A web browser made with the PyQt5 framework.
