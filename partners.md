@@ -1,4 +1,4 @@
-> [Home](https://lintine.github.io/index)          [Projects](https://lintine.github.io/projects)          [Partners](https://lintine.github.io/partners)
+> [Home](https://lintine.github.io/index) | [Projects](https://lintine.github.io/projects) | [Partners](https://lintine.github.io/partners)
 
 ![Partners](https://media.discordapp.net/attachments/808360760593612840/898546449757900830/unknown.png "Partners")
 # Partners
