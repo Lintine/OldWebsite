@@ -9,7 +9,8 @@ We have both a GitHub organization
 and a GitLab group.
 
 | [GitHub](https://github.com/Lintine) |
--------------------------------------------------
+| ------------------------------------ |
 | [GitLab](https://gitlab.com/Lintine) |
--------------------------------------------------
+| ------------------------------------ |
+
 We hope to deliver a great experience to you.
