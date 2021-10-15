@@ -1,3 +1,5 @@
+> [Home](https://lintine.github.io/index) | [Projects](https://lintine.github.io/projects) | [Partners](https://lintine.github.io/partners)
+
 !["Projects"](https://media.discordapp.net/attachments/808360760593612840/898324887326822471/unknown.png "Projects")
 
 > **[Linide](https://github.com/Lintine/Linide)**
