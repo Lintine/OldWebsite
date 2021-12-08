@@ -1,8 +1,3 @@
-<section class="page-header">
-      <center>Useful links:</center>
-      <a href="https://lintine.github.io/XianZaiOS" class="btn">XianZaiOS</a>
-</section>
-
 > [Home](https://lintine.github.io/index) | [Projects](https://lintine.github.io/projects) | [Partners](https://lintine.github.io/partners)
 
 ## Announcing the partnership between [Zeon](https://zeon.dev/) and Lintine.
