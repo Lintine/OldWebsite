@@ -8,7 +8,9 @@ and a GitLab group.
 
 # Links
 [GitHub](https://github.com/Lintine) 
+
 [GitLab](https://gitlab.com/Lintine)
+
 [Twitter](https://twitter.com/Lintine_)
 
 
