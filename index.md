@@ -7,7 +7,7 @@ Welcome to Lintine! We are a team of developers working internationally (from Ca
 We have both a GitHub organization
 and a GitLab group.
 
-section class="page-header">
+<section class="page-header">
        <center>Links</center>
        <a href="https://github.com/Lintine" class="btn">GitHub</a>
        <a href="https://gitlab.com/Lintine" class="btn">GitLab</a>
