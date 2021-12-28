@@ -1,4 +1,5 @@
 > [Home](https://lintine.github.io/index) | [Projects](https://lintine.github.io/projects) | [Partners](https://lintine.github.io/partners)
+![Lintine](https://media.discordapp.net/attachments/923885539399176202/925396641371029534/Header.png)
 
 ## We have a new email address and a twitter account!
 # Welcome!
