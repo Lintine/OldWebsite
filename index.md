@@ -7,12 +7,13 @@ Welcome to Lintine! We are a team of developers working internationally (from Ca
 We have both a GitHub organization
 and a GitLab group.
 
-# Links
-[GitHub](https://github.com/Lintine) 
-
-[GitLab](https://gitlab.com/Lintine)
-
-[Twitter](https://twitter.com/Lintine_)
+section class="page-header">
+       <center>Links</center>
+       <a href="https://github.com/Lintine" class="btn">GitHub</a>
+       <a href="https://gitlab.com/Lintine" class="btn">GitLab</a>
+       <a href="https://twitter.com/@Lintine_" class="btn">Twitter</a>
+       <a href="https://lintine.github.io/status" class="btn">Status</a>
+ </section>
 
 # E-Mail
 ## lintine@pm.me
