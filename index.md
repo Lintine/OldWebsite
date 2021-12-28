@@ -18,3 +18,5 @@ and a GitLab group.
 ## lintine@protonmail.com
 
 We hope to deliver a great experience to you.
+
+# [Status](https://lintine.github.io)
