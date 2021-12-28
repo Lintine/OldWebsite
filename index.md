@@ -13,6 +13,8 @@ and a GitLab group.
 
 [Twitter](https://twitter.com/Lintine_)
 
-
+# E-Mail
+## lintine@pm.me
+## lintine@protonmail.com
 
 We hope to deliver a great experience to you.
