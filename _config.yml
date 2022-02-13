@@ -1,6 +1,19 @@
 title: Lintine
 description: An international developer studio.
 
-remote_theme: kevadesu/grayscale-theme@v0.0.1
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+  
+footer: Lintine
+
+social:
+  - title: twitter
+    url: https://twitter.com/Lintine_
+  - title: youtube
+    url: https://www.youtube.com/channel/UCnCAUZ6YjhZrAeeeZH1rIsQ
+  - title: github
+    url: https://github.com/Lintine
+    
+markdown: kramdown
+permalink: pretty
